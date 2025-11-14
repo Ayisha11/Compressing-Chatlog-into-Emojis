@@ -1,0 +1,23 @@
+# Core
+python-dotenv
+pandas
+numpy
+
+# text & emoji handling
+emoji
+regex
+
+# NLP (optional — uncomment if used)
+# nltk
+# spacy
+# sentencepiece
+
+# Utilities
+tqdm
+
+# If app is a web app (Streamlit/Flask)
+streamlit
+flask
+
+# For packaging/deployment
+gunicorn
