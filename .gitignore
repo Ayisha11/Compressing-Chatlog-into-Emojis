@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+env/
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+
+# Data / outputs (uncomment if you want to ignore large data)
+# data/
+# *.csv
+# *.txt
+
+# Secrets
+.env
